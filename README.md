@@ -1,7 +1,7 @@
 # EletronicLife
 Part of Eloquent JavaScript: A Modern Introduction to Programming book
 
-## Install lodash dependencie
+## Install lodash dependency
 ```
 npm install
 ```

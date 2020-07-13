@@ -1,6 +1,8 @@
 # EletronicLife
 Part of Eloquent JavaScript: A Modern Introduction to Programming book
 
+[![Run on Repl.it](https://repl.it/badge/github/MatheusR42/EletronicLife)](https://repl.it/github/MatheusR42/EletronicLife)
+
 ## Install lodash dependency
 ```
 npm install
